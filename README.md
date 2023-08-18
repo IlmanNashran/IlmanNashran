@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about Laravel and Flutter development, I am a graduate from University Malaysia Pahang</h3> 
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" align="right">
 
-- 📊 I’m passion for Data Science **Ongoing learning of Python and your interest in data analysis tools like Power BI and Tableau.**
+- 📊 I’m passion for Data Science **Ongoing learning of Python and interested in data analysis tools like Power BI and Tableau.**
 
 - 📖 I’m currently learning **Deep learning using Python and TensorFlow**
 
