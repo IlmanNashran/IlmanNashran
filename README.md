@@ -4,8 +4,6 @@
 
 - 📊 I’m passion for Data Science **Ongoing learning of Python and interested in data analysis tools like Power BI and Tableau.**
 
-- 📖 I’m currently learning **Deep learning using Python and TensorFlow**
-
 - 👨‍💻 Proficient in Laravel and Flutter **Laravel for web development and Flutter for mobile app.**
 
 - 😁 All of my projects and resume are available at [https://ilmannashran.github.io/My-Profile-Website/](https://ilmannashran.github.io/My-Profile-Website/)
