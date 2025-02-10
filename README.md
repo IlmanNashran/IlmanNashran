@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ilman Nashran</h1>
-<h3 align="center">Passionate in development and data analyst</h3> 
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" align="right">
 
 - 📊 I’m passion for Data Science **Ongoing learning of Python and interested in data analysis tools like Power BI and Tableau.**
