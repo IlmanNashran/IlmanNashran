@@ -5,7 +5,7 @@
 
 - 👨‍💻 Proficient in Laravel and Flutter **Laravel for web development and Flutter for mobile app.**
 
-- 😁 All of my projects and resume are available at [https://ilmannashran.github.io/My-Profile-Website/](https://ilmannashran.github.io/My-Profile-Website/)
+//- 😁 All of my projects and resume are available at [https://ilmannashran.github.io/My-Profile-Website/](https://ilmannashran.github.io/My-Profile-Website/)
 
 - 📫 How to reach me **ilmannashran@gmail.com**
 
